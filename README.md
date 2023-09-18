@@ -16,6 +16,6 @@ Here are some of the languages and tools I've used in this project:
 ### Challenges Solved 🎯:
 
 ## Advent2022:
-- Day 1: Calculating Elves' Calories (Completed)
+- Day 1: Calculating Elves' Calories (Completed) ![DAY1](https://github.com/banestal/Advent2022/assets/135490445/eb04e90c-a4c6-4340-8de8-d71254d51030)
 - Day 2: Rock Paper Scissors (Completed) ![DAY2](https://github.com/banestal/Advent2022/assets/135490445/8914a575-345f-4820-85ee-339f456e1a3b)
 - Day 3: Rucksack Reorganization (**WIP**)
