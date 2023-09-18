@@ -1,5 +1,5 @@
 def calculateScore(opponent, outcome):
-    #returns the score for the shape i must choose and the outcome i must achieve
+    #returns the score for the shape that must be chosen and the outcome that must be achieved
     if outcome == "X":  
         if opponent == "A":  
             return 3  
