@@ -16,5 +16,5 @@ Here are some of the languages and tools I've used in this project:
 ### Challenges Solved 🎯:
 
 ## Advent2022:
-- Day 1: Calculating Elves' Calories 
-- Day 2: TBD
+- Day 1: Calculating Elves' Calories (Completed)
+- Day 2: **WIP**
