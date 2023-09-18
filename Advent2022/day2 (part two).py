@@ -1,3 +1,5 @@
+#Day 2 (part two) of AdventCode
+
 def calculateScore(opponent, outcome):
     #returns the score for the shape that must be chosen and the outcome that must be achieved
     if outcome == "X":  
