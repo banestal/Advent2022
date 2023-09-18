@@ -1,3 +1,5 @@
+#Day 2 of AdventCode
+
 from aocd import get_data
 
 totalScore = 0
