@@ -2,10 +2,10 @@ from aocd import get_data
 
 totalScore = 0
 
-# Dictionary to map scores based on choices
+#map scores based on choices
 mapScoreChoices = {"A": 1, "B": 2, "C": 3, "X": 1, "Y": 2, "Z": 3}
 
-# Function to determine the outcome of a single round
+#determines the outcome of a single round
 def roundOutcome(opponent, myChoice):
     if opponent == "A" and myChoice == "Y":
         return 6
