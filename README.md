@@ -6,7 +6,7 @@
 
 Welcome to my Advent of Code repository! I'm a passionate programmer focused on solving complex problems through code. This repo contains my solutions to the Advent of Code puzzles, showcasing my coding and problem-solving skills.
 
-## [Repository Link](https://github.com/banestal/Advent2022
+## [Advent 2022](https://github.com/banestal/Advent2022)
 
 ### 👨‍💻 Languages and Tools:
 
