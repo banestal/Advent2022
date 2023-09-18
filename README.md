@@ -17,5 +17,5 @@ Here are some of the languages and tools I've used in this project:
 
 ## Advent2022:
 - Day 1: Calculating Elves' Calories (Completed)
-- Day 2: Rock Paper Scissors (Completed)
+- Day 2: Rock Paper Scissors (Completed) ![DAY2](https://github.com/banestal/Advent2022/assets/135490445/8914a575-345f-4820-85ee-339f456e1a3b)
 - Day 3: Rucksack Reorganization (**WIP**)
